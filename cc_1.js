@@ -40,3 +40,7 @@ let welcomeMessage = "Hello " + customerName + " ! We appreciate you visiting us
 
 //Logging to console
 console.log(welcomeMessage)
+
+//Task 5 - Access Control
+let isLoggedIn = true;
+if (isLoggedIn) { console.log("Welcome"); } else {console.log("Try again")}
