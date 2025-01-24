@@ -16,4 +16,18 @@ console.log(productName, typeof productName);
 console.log(productPrice, typeof productPrice);
 console.log(isAvailable, typeof isAvailable);
 
+//Task 3 - Financial Transactions
+let accountBalance += 1000
 
+//Calculating
+accountBalance *= 3; //Multiplying by 3
+console.log (Account balance after multiplying is:"", accountBalance)
+
+accountBalance -= 500; //Subtracting by 500
+console.log (Account balance after subtracting is:"", accountBalance)
+
+accountBalance += 300; //Adding 300
+console.log (Account balance after adding is:"", accountBalance)
+
+accountBalance /= 3; //Dividing by 5
+console.log (Account balance after dividing is:"", accountBalance)
