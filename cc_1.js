@@ -31,3 +31,12 @@ console.log (Account balance after adding is:"", accountBalance)
 
 accountBalance /= 3; //Dividing by 5
 console.log (Account balance after dividing is:"", accountBalance)
+
+//Task 4 - Customer Messaging
+let customerName = "John Smith"; //Declare a variable for the customer's name
+
+//Welcome message 
+let welcomeMessage = "Hello " + customerName + " ! We appreciate you visiting us today."
+
+//Logging to console
+console.log(welcomeMessage)
